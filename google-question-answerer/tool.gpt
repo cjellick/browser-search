@@ -7,8 +7,8 @@ Do not make parallel tool calls. Wait for it to respond before you call it again
 
 Use Google to search for answers to the question: $question.
 
-Use the browser tool to visit the URLs from the search results and gather all the information that you need.
-Get the contents of one website at a time. Visit more than one website before stating your answer.
+Use the browser tool to visit at most two URLs from the search results and gather all the information that you need.
+Get the contents of one website at a time. If the first website gives you enough information to answer the question, you don't need to visit the second.
 Do not assume or infer anything. Only answer based on the information you get from the websites.
 Do not repeat entire sentences word-for-word from the websites. Summarize and rephrase things in your own words.
 
